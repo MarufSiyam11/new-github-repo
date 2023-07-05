@@ -1,0 +1,18 @@
+h1{
+    background-color: rgba(210, 241, 250, 0.616);
+}
+h2{
+    background-color: rgba(135, 170, 222, 0.644);
+}
+
+p {
+    background-color: burlywood;
+    
+}
+
+li {
+    background-color: cadetblue;
+    color: #4d0404;
+}
+#fild { background-color: coral;
+}
